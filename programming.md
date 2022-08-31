@@ -1,37 +1,28 @@
-# World Painter Tile Saver
+# World Painter - Tile Group Saver
 
-You can use the [editor on GitHub](https://github.com/Josiah-Cooksey/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
+Loops over the tiles of an open minecraft map, saving sections of 3x3 (not hard-set - customisable) tiles with varying names in the same folder.
 
-### Markdown
+## See it in action!
+![demo](https://user-images.githubusercontent.com/108890925/187715685-14bdbd1b-2734-4c83-b5d3-d84e0147aadd.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Setup/Prerequisites
+- [AutoHotKey](https://autohotkey.com)
+(after installing, you can just double click any .ahk file to run it)
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
+- Shift F1 - opens a dialogue box for you to input the dimensions (in tiles) that the map is.
+![setup step 1 - dimensions and section names](https://user-images.githubusercontent.com/108890925/187714490-7d8a4566-fbd1-4a42-834f-90d019b26e46.gif)
+- Shift F2 - logs the coordinates of the upper left corner of the tilemap. (place the centre pointer on that tile beforehand)
+- Shift F3 - logs the coordinates of the lower right corner of the tilemap. (place the centre pointer on that tile beforehand)
+![setup steps 2 and 3 - mark corners](https://user-images.githubusercontent.com/108890925/187714568-a9f11440-55cd-4b4d-b8b7-90564287aaa3.gif)
+setup steps 2 and 3 - mark corners
 
-- Bulleted
-- List
+- Shift F4 - starts the automated export!
 
-1. Numbered
-2. List
+- Windows Key P  - pauses the program; you can resume operation by pressing the key combination again.
 
-**Bold** and _Italic_ and `Code` text
+Hotkeys can be edited to your liking but I've set them so to reduce interference with built-in hotkeys and other programs.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Josiah-Cooksey/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
