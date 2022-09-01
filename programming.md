@@ -1,8 +1,8 @@
 # Jump to project:
-1. ### [World Painter - Tile Group Saver](#world-painter---tile-group-saver)
-2. ### [World Painter - Tile Group Saver](#world-painter---tile-group-saver)
-3. ### [World Painter - Tile Group Saver](#world-painter---tile-group-saver)
-4. ### [World Painter - Tile Group Saver](#world-painter---tile-group-saver)
+1. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
+2. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
+3. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
+4. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
 
 
 # World Painter - Tile Group Saver
