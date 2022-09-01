@@ -1,13 +1,11 @@
 # Jump to project:
-1. ### [world painter](#World Painter - Tile Group Saver)
+1. ### [World Painter - Tile Group Saver](#world-painter---tile-group-saver)
 2. ### [Custom description](#World Painter - Tile Group Saver)
 3. ### [Custom description](#World Painter - Tile Group Saver)
 4. ### [Custom description](#World Painter - Tile Group Saver)
 
 
-
 # World Painter - Tile Group Saver
-
 
 ## Description
 Loops over the tiles of an open minecraft map, saving sections of 3x3 (not hard-set - customisable) tiles with varying names in the same folder.
