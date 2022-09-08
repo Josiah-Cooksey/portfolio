@@ -1,8 +1,6 @@
 # Jump to project:
-1. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
-2. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
-3. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
-4. ### [World Painter Tile Saver](#world-painter---tile-group-saver)
+1. ### [World Painter Tile Group Saver](#world-painter---tile-group-saver)
+2. ### [Automatic Notification Confirmer](#automatic-notification-confirmer-for-the-brave-browser)
 
 
 # World Painter - Tile Group Saver
@@ -32,3 +30,28 @@ Loops over the tiles of an open minecraft map, saving sections of 3x3 (not hard-
 - Windows Key P  - pauses the program; you can resume operation by pressing the key combination again.
 
 Hotkeys can be edited to your liking but I've set them so to reduce interference with built-in hotkeys and other programs.
+
+
+
+# Automatic Notification Confirmer for the Brave Browser
+
+## Description
+Constantly checks several pixels on the screen until all of them match the set colours; when a match occurs, the script clicks on the confirmation button of the dialogue, waiting a second after that so that the notification has time to disappear.
+
+## See it in action!
+## Full demo run ---> https://youtu.be/IvkdQABZx0A
+### (simulated)
+![brave browser notification clicker demo preview](https://user-images.githubusercontent.com/108890925/189014810-6bf6ca01-dc70-4c91-91db-31e819e525aa.gif)
+
+
+## Prerequisites
+- [AutoHotKey](https://autohotkey.com)
+(after installing, you can just double click any `.ahk` file to run it)
+
+## Setup
+- Double click the file to run.
+
+## Usage
+- Right click to pause or resume execution.
+- Shift F2 - Exits the program completely.
+- Shift F3 - Reloads the script, effectively closing then restarting itself.
