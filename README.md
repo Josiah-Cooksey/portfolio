@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ### Programming Experience:
-- #### https://josiah-cooksey.github.io/portfolio/programming
+- #### [https://josiah-cooksey.github.io/portfolio/programming](https://josiah-cooksey.github.io/portfolio/programming)
 
 You can use the [editor on GitHub](https://github.com/Josiah-Cooksey/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
