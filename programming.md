@@ -34,7 +34,9 @@ Detects embedded images sent by the gartic bot, screenshots them, hashes the scr
 ![save](https://user-images.githubusercontent.com/108890925/195712505-b5189fb1-aa73-4ab7-bdbe-5369991c5115.gif)
 
 - The "Silent" button can be toggled between its current state and "Answering", in which mode it will automatically type out the answer to the prompt if known; there is a bell-ringing sound when this is the case so that the user knows that nothing must be manually typed.
+
 ![answer](https://user-images.githubusercontent.com/108890925/195712516-836ebc7d-d558-4ea2-b7eb-73388c4c43a4.gif)
+
 ___
 ___
 # World Painter - Tile Group Saver
