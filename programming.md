@@ -46,12 +46,16 @@ Underneath, there are three buttons, "Start", "Pause", and "Stop" recording, res
 
 
 ### **Saving Input:**
-After recording a step in the assembly process, you're probably itching to move on to the next; well hold it right there, buckaroo - you need to save it first.
+You're probably itching to move on to recording the next step, but hold it right there, buckaroo - you need to save it first.
 After you stop recording, the app will show a save GUI.
 
-At the top, click the "" button
+At the top, in the field labeled "Save To:", you can manually type the directory + filename with no extension to save the output, but if you're not a masochist, click the "Save Data" button to do it in the native file browser.
 
+Next, you can optionally add notes to be saved in a text file alongside the video and images, but if you already have explanations in the video, there's no need.
 
+Finally, there are first and final frame previews for a definite confirmation that you captured what you wanted; you can now submit and return to the main window.
+
+However, if you decide that you would like to discard everything and try again, just close and restart the program.
 ___
 ___
 # Discord Gartic-Game Player
