@@ -8,7 +8,7 @@
 Allows the end-user to record step-by step processes for assembling (or disassembling!) things using a webcam.
 - *November 2022*
 
-![main window overview](.//webcam%20main%20window%20overview.png)
+![webcam main window overview](https://github.com/Josiah-Cooksey/portfolio/assets/108890925/c2d6c033-afa2-4dd9-ba91-22e3715ebfde)
 
 ## Features:
 - Video recording functionality
