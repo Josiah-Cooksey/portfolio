@@ -6,6 +6,8 @@
 5. ### [Automatic Notification Confirmer](#automatic-notification-confirmer-for-the-brave-browser)
 
 # Assembly Step Recorder
+[-> The Code <-](https://github.com/Josiah-Cooksey/assembly-recorder)
+
 Allows the end-user to record step-by step processes for assembling (or disassembling!) things using a webcam.
 - *November 2022*
 
@@ -83,6 +85,8 @@ However, if you decide that you would like to discard everything and try again, 
 ___
 ___
 # Nvidia Colour Profile Manager
+[-> The Code <-](https://github.com/Josiah-Cooksey/nvidia-colour-profile-manager)
+
 A tool to quickly switch between several pre-set colour profiles for the Nvidia Control Panel.
 - *December 2021*
 
