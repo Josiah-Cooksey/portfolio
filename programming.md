@@ -86,7 +86,7 @@ ___
 A tool to quickly switch between several pre-set colour profiles for the Nvidia Control Panel.
 - *December 2021*
 
-![sliders adjusting](./sliders%20adjusting.gif)
+![sliders adjusting](https://github.com/Josiah-Cooksey/portfolio/assets/108890925/f51ccf67-3afb-49de-a24e-d96c4c55973b)
 
 ## Features:
 - Convenient hotkeys
@@ -102,7 +102,6 @@ TODO
 - Requires [AutoHotKey](https://www.autohotkey.com/) installed.
 - The Nvidia Control Panel must be open in the "Display" > "Adjust desktop colour settings" tab. (it is not required to be in the foreground, though)
 
-
 ## Usage
 ### **Startup:**
 Double-click the .ahk file to run the script.
@@ -114,9 +113,6 @@ Double-click the .ahk file to run the script.
     - High gamma, low contrast profile.
 - F2
     - High gamma, low contrast, increased brightness profile.
-
-![the script changing colour themes](./live%20demo.gif)
-
 
 ___
 ___
