@@ -1,3 +1,10 @@
+# DEPRECATED! Please visit [jcooksey.dev](https://jcooksey.dev) instead
+
+___
+___
+___
+___
+
 # Jump to project:
 1. ### [Assembly Recorder](#assembly-step-recorder)
 2. ### [Colour Profile Manager](#nvidia-colour-profile-manager)
@@ -9,6 +16,7 @@ ___
 ___
 ___
 ___
+
 # Assembly Step Recorder
 [-> The Code <-](https://github.com/Josiah-Cooksey/assembly-recorder)
 
